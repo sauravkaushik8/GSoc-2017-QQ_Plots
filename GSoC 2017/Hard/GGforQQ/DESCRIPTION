@@ -1,0 +1,15 @@
+Package: GGforQQ
+Type: Package
+Title: Rudimentary Implementation Of Q-Q Line As A Geom In GGPLOT
+Version: 0.1.0
+Author: Saurav Kaushik
+Maintainer: Saurav Kaushik <sauravkaushik8@gmail.com>
+Description: Rudimentary implementation of Q-Q line as a geom within GGPLOT
+    performed for GSoC 2017 | Distributional assessments with Q Q plots | Test: Hard
+License: GPL-2
+Imports:
+    ggplot2,
+    stats
+Suggests:
+    knitr
+RoxygenNote: 5.0.1
