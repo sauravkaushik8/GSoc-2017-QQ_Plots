@@ -8,6 +8,7 @@ Rudimentary implementation of Q-Q line as a geom within GGPLOT. Performed for GS
 
 
 A few examples fulfilling the desired task of the test:
+
 Drawing the QQ plot for a T distribution for miles per gallon (mpg) variable of mtcars dataset:
 
 
